@@ -1,0 +1,8 @@
+train: "E:/Work Files/Project - Worker Efficiency & Safety/Model - Phone Detection/dataset/train"
+val: "E:/Work Files/Project - Worker Efficiency & Safety/Model - Phone Detection/dataset/valid"
+test: "E:/Work Files/Project - Worker Efficiency & Safety/Model - Phone Detection/dataset/test"
+
+nc: 1
+
+names:
+  0: "phone"
