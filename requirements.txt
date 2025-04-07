@@ -1,0 +1,6 @@
+ultralytics>=8.0.0
+opencv-python
+torch
+torchvision
+pyyaml
+numpy
